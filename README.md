@@ -6,7 +6,7 @@ I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor
 [![Twitter Badge](https://img.shields.io/badge/-Fajaralg-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Fajaralg/)](https://twitter.com/Fajaralg)
 [![Gmail Badge](https://img.shields.io/badge/-fajarghifari3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarghifari3@gmail.com)](mailto:fajarghifari3@gmail.com)
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies
 
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -27,9 +27,9 @@ I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fajaraldev&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fajaraldev&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaraldev&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fajaraldev)
