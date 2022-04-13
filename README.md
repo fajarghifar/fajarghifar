@@ -3,7 +3,7 @@
 I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor's degree majoring in Informatics Engineering from [The Univesity of Muhammadiyah Cirebon](https://www.umc.ac.id/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Fajaralg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajaralg/)](https://www.linkedin.com/in/fajaralg/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Fajarghifari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-ghifari-nugroho/)](https://www.linkedin.com/in/fajar-ghifari-nugroho/)
 [![Instagram Badge](https://img.shields.io/badge/-Fajarghifar-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fajarghifar)](https://www.instagram.com/fajarghifar)
 [![Twitter Badge](https://img.shields.io/badge/-Fajaralg-55ACEE?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Fajaralg/)](https://twitter.com/Fajaralg)
 [![Gmail Badge](https://img.shields.io/badge/-fajarghifari3@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarghifari3@gmail.com)](mailto:fajarghifari3@gmail.com)
