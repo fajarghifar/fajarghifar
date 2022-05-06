@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/fajaraldev/fajaraldev/master/wave.gif" width="30px">
 
 I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor's degree majoring in Informatics Engineering from [The University of Muhammadiyah Cirebon](https://www.umc.ac.id/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -7,7 +7,7 @@ I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor
 [![Instagram Badge](https://img.shields.io/badge/-Fajarghifar-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fajarghifar)](https://www.instagram.com/fajarghifar)
 [![Twitter Badge](https://img.shields.io/badge/-Fajaralg-55ACEE?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Fajaralg/)](https://twitter.com/Fajaralg)
 [![Gmail Badge](https://img.shields.io/badge/-fajarghifari3@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarghifari3@gmail.com)](mailto:fajarghifari3@gmail.com)
-[![Blogger Badge](https://img.shields.io/badge/-Fajaraldev-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://fajaral-dev.blogspot.com/)](https://fajaral-dev.blogspot.com/)
+[![Blogger Badge](https://img.shields.io/badge/-FajaralDev-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://fajaraldev.com/)](https://fajaraldev.com/)
 
 <!-- ## ⚡ Technologies
 
