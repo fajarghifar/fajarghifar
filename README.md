@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/fajaraldev/fajaraldev/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/fajarghifar/fajarghifar/master/wave.gif" width="30px">
 
 I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor's degree majoring in Informatics Engineering from [The University of Muhammadiyah Cirebon](https://www.umc.ac.id/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -33,6 +33,6 @@ I am Fajar Ghifari Nugroho, people call me Fajar, currently pursuing my bachelor
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fajaraldev&count_private=true&show_icons=true&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaraldev&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fajarghifar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarghifar&hide=TeX&layout=compact)
 
