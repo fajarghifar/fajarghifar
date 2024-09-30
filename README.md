@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/fajarghifar/fajarghifar/master/wave.gif" width="30px"> About Me:
+## <img src="https://raw.githubusercontent.com/fajarghifar/fajarghifar/refs/heads/main/wave.gif" width="30px"> About Me:
 I am Fajar Ghifari, but you can call me Fajar. I enjoy exploring new ideas and have a curiosity for the latest developments in technology.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/fajarghifar) 
